@@ -33,7 +33,7 @@ file.
 
 ## License
 
-[MIT][license] &copy; [John Darryl Pelingo][me]
+[MIT][license] &copy; [Airship][me]
 
 [license]: ../../LICENSE
 [me]: https://teamairship.com/
