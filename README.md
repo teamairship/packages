@@ -7,6 +7,7 @@ Standard configurations that all Airship Builders should use in their projects. 
 - [eslint-config](./packages/eslint-config)
 - [eslint-config-typescript](./packages/eslint-config-typescript)
 - [eslint-config-typescript-react](./packages/eslint-config-typescript-react)
+- [eslint-config-typescript-react-native](./packages/eslint-config-typescript-react-native)
 - [prettier-config](./packages/prettier-config)
 - [tsconfig](./packages/tsconfig)
 
