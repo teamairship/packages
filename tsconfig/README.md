@@ -46,6 +46,15 @@ TypeScript + React projects for production:
 }
 ```
 
+TypeScript + React Native projects for production:
+
+<!-- prettier-ignore -->
+```json
+{
+  "extends": "@airship/tsconfig/tsconfig.react-native.json"
+}
+```
+
 ## License
 
 [MIT][license] &copy; [Airship][me]
