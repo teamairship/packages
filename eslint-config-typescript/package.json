@@ -1,7 +1,7 @@
 {
-  "name": "@airship/eslint-config-typescript-react",
+  "name": "@airship/eslint-config-typescript",
   "version": "1.0.0",
-  "description": "Airship's ESLint Config for React Typescript.",
+  "description": "Airship's ESLint Config for Typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,9 @@
     "url": "git+https://github.com/teamairship/packages.git"
   },
   "keywords": [
+    "airship",
     "eslint",
-    "typescipt",
-    "react",
-    "airship"
+    "typescript"
   ],
   "author": {
     "email": "builders@teamairship.com",
@@ -30,10 +29,6 @@
     "@typescript-eslint/eslint-plugin": ">= 5",
     "eslint": ">= 8",
     "eslint-plugin-import": ">= 2",
-    "eslint-plugin-jsx-a11y": ">= 6",
-    "eslint-plugin-react": ">= 7",
-    "eslint-plugin-react-hooks": ">= 4",
-    "react": ">= 17",
     "typescript": ">= 4.4.4"
   },
   "dependencies": {
@@ -42,10 +37,6 @@
     "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.4",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "react": "^17.0.2",
     "typescript": "^4.5.4"
   }
 }

@@ -15,7 +15,11 @@
     "config",
     "airship"
   ],
-  "author": "Airship",
+  "author": {
+    "email": "builders@teamairship.com",
+    "name": "Airship",
+    "url": "https://teamairship.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/teamairship/prettier-config/issues"
