@@ -38,4 +38,5 @@ file.
 [license]: ../../LICENSE
 [me]: https://teamairship.com/
 [npm]: https://npmjs.org/package/@airship/eslint-config
-[shield-npm]: https://img.shields.io/npm/v/@airship/eslint-config.svg
+[shield-license]: https://img.shields.io/badge/License-MIT-lavender.svg
+[shield-npm]: https://img.shields.io/npm/v/@jdp-dev/prettier-config.svg
