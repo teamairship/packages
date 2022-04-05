@@ -1,0 +1,24 @@
+{
+  "name": "@airship/prettier-config",
+  "version": "1.0.0",
+  "description": "Airship's Prettier Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamairship/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "airship"
+  ],
+  "author": "Airship",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamairship/prettier-config/issues"
+  },
+  "homepage": "https://github.com/teamairship/prettier-config#readme"
+}
