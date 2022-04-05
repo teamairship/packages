@@ -1,6 +1,6 @@
 {
   "name": "@airship/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Airship's TypeScript Config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
