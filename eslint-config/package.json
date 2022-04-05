@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/teamairship/packages/issues"
   },
-  "homepage": "https://github.com/teamairship/packages#readme"
+  "homepage": "https://github.com/teamairship/packages#readme",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "eslint-plugin-import": ">= 2"
+  },
+  "dependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
 }

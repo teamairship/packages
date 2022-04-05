@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/teamairship/prettier-config/issues"
   },
-  "homepage": "https://github.com/teamairship/prettier-config#readme"
+  "homepage": "https://github.com/teamairship/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.5.1"
+  }
 }
