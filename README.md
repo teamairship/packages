@@ -10,6 +10,7 @@ Standard configurations that all Airship Builders should use in their projects. 
 - [eslint-config-typescript-react-native](./packages/eslint-config-typescript-react-native)
 - [prettier-config](./packages/prettier-config)
 - [tsconfig](./packages/tsconfig)
+- [rubocop-config](./rubocop-config/)
 
 ## License
 
